@@ -47,13 +47,22 @@ Each agent operates in sequence, mimicking a real-life support escalation path.
 
 
 
+## Sample Output Screemshots
+
+### Screenshot 1
+<img width="880" height="788" alt="image" src="https://github.com/user-attachments/assets/bfcd2d9d-6a03-4978-91e1-ca444eb6c446" />
+
+### Screenshot 2
+<img width="892" height="711" alt="image" src="https://github.com/user-attachments/assets/fca02293-8afc-4eb5-8701-26f502b489b3" />
+
+
+
 ## Technologies Used
 
 - crewai 0.28.8
 - crewai_tools 0.1.6
 - langchain_community 0.0.29
 - openai gpt-3.5-turbo
-
 
 ## Contact
 Anusha Chaudhuri [anusha761]
