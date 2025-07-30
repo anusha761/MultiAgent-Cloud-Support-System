@@ -21,7 +21,7 @@
 
 
 
-## Architecture Overview
+## Solution Overview
 
 The system consists of three specialized CrewAI agents:
 
