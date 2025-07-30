@@ -32,7 +32,7 @@ The system consists of three specialized CrewAI agents:
    Searches the selected documentation source and drafts a response based on retrieved content.
 
 3. Senior Support QA Agent  
-   Validates the quality and completeness of the answer. Rewrites and formats it into a clear, professional email-style message.
+   Validates the quality and completeness of the answer. Reviews the support agent’s draft answer, delegates it back for revisions if needed, and approves the final response to ensure accuracy and completeness.
 
 Each agent operates in sequence, mimicking a real-life support escalation path.
 
